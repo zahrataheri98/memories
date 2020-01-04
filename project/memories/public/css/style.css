@@ -1,0 +1,119 @@
+@font-face {
+font-family: 'BYekan';
+src: url('../font/BYekan.eot?#') format('eot'),
+url('../font/BYekan.ttf') format('truetype'),
+url('../font/BYekan.woff') format('woff');
+}
+html body{
+	font-family:BYekan;
+}
+.logo{
+	width:200px;
+}
+.form-control{
+	margin:13px 0px;
+	border-color:#7ea6c0;
+	border-radius:2px;
+}
+.btn{
+	border-radius:2px;
+}
+.reg-button{
+	background:#7ea6c0;
+	color:#fff;
+}
+.reg-button:hover{
+	color:#e7ecf0;
+}
+.new-reg-button{
+	background:#fff;
+	font-size:17px;
+	border:1px solid #7ea6c0;
+	color:#7ea6c0;
+	padding:5px 70px;	
+}
+.new-reg-button:hover{
+	color:#5d7f94;
+}
+.button-default{
+	padding:4px 0px!important;
+	margin:0px 3px;
+	width:100px;
+}
+.button-mini{
+	font-size:12px;
+	padding:0px 8px!important;
+}
+.button-medium{
+	font-size:14px;
+	padding:2px 4px!important;
+}
+.custom-control-label::before{
+	width: .8rem!important;
+	height: .8rem!important;
+	right: -1.3rem!important;
+}
+.custom-control-label::after{
+	width: .8rem!important;
+	height: .8rem!important;
+	right: -1.3rem!important;
+}
+.custom-checkbox .custom-control-label::before{
+	border-radius:2px;
+}
+.checkbox1{
+	margin:0px 1.3rem 0px 0px;
+}
+.reg-panel{
+	margin:0px!important;
+}
+.custom-checkbox .custom-control-label{
+	color:#7ea6c0;
+	font-size:15px;
+}
+.form-control::-webkit-input-placeholder {
+  color: #7ea6c0!important;
+}
+
+.form-control::-moz-placeholder {
+  color: #7ea6c0!important;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #7ea6c0!important;
+}
+
+.form-control::-ms-input-placeholder {
+  color: #7ea6c0!important;
+}
+
+.form-control::placeholder {
+  color: #7ea6c0!important;
+}
+.textarea1{
+	resize:none;
+}
+.box-post{
+	padding:3px 10px;
+}
+.date-post, .title-post{
+	color:#7ea6c0;
+	padding:0px;
+	margin:0px;
+}
+.date-post{
+	margin-top:5px;
+}
+.card{
+	border-color:#7ea6c0;
+	border-radius:2px;
+}
+.card-body{
+	padding:0.8rem 0.5rem;
+}
+.title-single{
+	color:#7ea6c0;
+	font-weight:bold;
+}
+
+
